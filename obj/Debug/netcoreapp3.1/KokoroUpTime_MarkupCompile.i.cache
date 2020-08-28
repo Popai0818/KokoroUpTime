@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\MAGDYNABOOK-03\Desktop\KokoroUpTime-master\KokoroUpTime\obj\Debug\netcoreapp3.1\
+C:\Users\MAGDYNABOOK-03\Desktop\GitHub\KokoroUpTime-master\KokoroUpTime\obj\Debug\netcoreapp3.1\
 KokoroUpTime
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\Users\MAGDYNABOOK-03\Desktop\KokoroUpTime-master\KokoroUpTime\App.xaml
+C:\Users\MAGDYNABOOK-03\Desktop\GitHub\KokoroUpTime-master\KokoroUpTime\App.xaml
 111455747189
 
 26-332065462
 2121731921257
 AboutPage.xaml;Chapter1.xaml;Chapter2.xaml;Chapter3.xaml;ItemPage.xaml;MainWindow.xaml;NameInputPage.xaml;OptionPage.xaml;RuleBoardPage.xaml;Splash.xaml;TitlePage.xaml;
 
-True
+False
 
